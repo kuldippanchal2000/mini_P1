@@ -1,0 +1,35 @@
+*{
+	padding: 0px;
+    margin: 0px;
+}
+
+.outer{
+	background-color: cornsilk;
+width:1000px;
+height:1680px;
+border:1px solid black;
+margin: 0px auto;
+}
+.outer h1{
+	background-color: DarkSlateGrey;
+text-align: center;
+color : white;
+}
+p{
+	font-size: 20px;
+}
+.border{
+	width: 98.8%;
+	padding: 5px;
+	background-color: Brown;
+	border:1px solid black;
+font-weight: bold;
+color: white;
+}
+ul{
+	font-size: 20px;
+	margin-left: 50px;
+}
+h2{
+	float: right;
+}
